@@ -1,5 +1,5 @@
 # LSystem
-An L-System Interpreter in c++ made for the Data Structure course.
+An L-System Interpreter in c++ made for the Data Structures course.
 - Terminology
 ![image](lsys2.png)
 - Visual

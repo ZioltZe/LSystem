@@ -1,0 +1,4 @@
+C:/Users/eliot/Documents/_My Documents/UA/_Hoorcolleges/2023-2024/3-Data Structures/Practica/Project/cmake-build-debug/CMakeFiles/ProjectLib.dir
+C:/Users/eliot/Documents/_My Documents/UA/_Hoorcolleges/2023-2024/3-Data Structures/Practica/Project/cmake-build-debug/CMakeFiles/TestSuite.dir
+C:/Users/eliot/Documents/_My Documents/UA/_Hoorcolleges/2023-2024/3-Data Structures/Practica/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eliot/Documents/_My Documents/UA/_Hoorcolleges/2023-2024/3-Data Structures/Practica/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

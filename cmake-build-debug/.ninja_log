@@ -1,0 +1,8 @@
+# ninja log v5
+9	1310	7271400756626974	CMakeFiles/ProjectLib.dir/src/07_project/Production.cpp.obj	88706638660ccd6c
+18	1912	7271391602038566	CMakeFiles/ProjectLib.dir/src/07_project/LSystemInterpreter.cpp.obj	b2cea36474a8c85e
+27	2825	7271391611161227	CMakeFiles/TestSuite.dir/test/LSystemInterpreter.cpp.obj	7a933ee017cd4672
+33	27978	7271385038269522	CMakeFiles/TestSuite.dir/test/Production.cpp.obj	383429f089ee2be5
+1312	1488	7271400758413082	libProjectLib.a	a75d00e8c4ec75e2
+1	196	7271401739520364	build.ninja	c8d121a61e3f04f3
+1489	84299	7271401586298263	TestSuite.exe	2616043e08f702f5
